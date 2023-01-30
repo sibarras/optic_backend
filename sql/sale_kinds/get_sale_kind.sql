@@ -1,0 +1,1 @@
+SELECT $table_fields FROM testing.sale_kinds WHERE id = $1;

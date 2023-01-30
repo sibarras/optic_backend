@@ -1,0 +1,1 @@
+SELECT $table_fields FROM testing.frame_brands WHERE id = $1;
